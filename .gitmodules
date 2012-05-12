@@ -1,0 +1,3 @@
+[submodule "scy-directory"]
+	path = scy-directory
+	url = git://github.com/tlevine/datakind-scy.git
